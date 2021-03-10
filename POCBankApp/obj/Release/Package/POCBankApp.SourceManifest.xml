@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\rahul.jagga\source\repos\POCBankApp\POCBankApp\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\rahul.jagga\source\repos\POCBankApp\POCBankApp\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\rahul.jagga\source\repos\POCBankApp\POCBankApp\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
